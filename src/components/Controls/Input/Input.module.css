@@ -1,0 +1,24 @@
+.input_main{
+    padding: 6px 10px 3px 35px;
+    font-family: inherit;
+    width: 100%;
+    border-radius: 3ch;
+}
+
+.input__wrapper{
+    position: relative;
+}
+
+.input__icon{
+    position: absolute;
+    top: 50.5%;
+    transform: translateY(-50%);
+    left: 9px;
+    cursor: pointer;
+    font-size: 27px;
+}
+
+.input__icon img{
+    height: 22px;
+    width: 22px;
+}
